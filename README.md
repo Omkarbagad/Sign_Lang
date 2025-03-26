@@ -10,6 +10,8 @@ npm install @tensorflow/tfjs @tensorflow-models/handpose react-webcam react-hot-
 npm install file-saver
 npm install react-hot-toast
 
+## To run the code go in project directory and type npm run dev
+
 
 ## Available Scripts
 
