@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Run code install all dependencies below
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+npm install react-router-dom
+npm install @tensorflow/tfjs @tensorflow-models/handpose react-webcam react-hot-toast
+npm install file-saver
+npm install react-hot-toast
+
+
 ## Available Scripts
 
 In the project directory, you can run:
